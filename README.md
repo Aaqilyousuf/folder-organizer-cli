@@ -46,5 +46,9 @@ folder-organizer <path-to-folder>
 folder-organizer <path-to-folder>
 ```
 
+![Demo of folder-organizer](assets/demo.png)
+
+---
+
 ![GitHub](https://img.shields.io/github/license/Aaqilyousuf/folder-organizer-cli)
 ![Stars](https://img.shields.io/github/stars/Aaqilyousuf/folder-organizer-cli?style=social)
