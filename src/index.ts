@@ -17,4 +17,6 @@ program
     });
   });
 
-program.parse();
+if (require.main === module) {
+  program.parse();
+}
