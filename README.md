@@ -45,3 +45,6 @@ folder-organizer <path-to-folder>
 ```bash
 folder-organizer <path-to-folder>
 ```
+
+![GitHub](https://img.shields.io/github/license/your-username/folder-organizer-cli)
+![Stars](https://img.shields.io/github/stars/your-username/folder-organizer-cli?style=social)
