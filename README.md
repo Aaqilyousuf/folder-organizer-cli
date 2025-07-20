@@ -34,13 +34,35 @@ npx folder-organizer <path-to-folder>
 
 ---
 
+#### 🛠️ Command-line Options
+
+| Flag        | Description                                                           |
+| ----------- | --------------------------------------------------------------------- |
+| `--verbose` | Enables detailed logs of the file organization process.               |
+| `--dry-run` | Simulates the organization process without actually moving any files. |
+
 ##### 🛠️ Usage
 
 ```bash
 folder-organizer <path-to-folder>
 ```
 
-##### Example
+```bash
+# Organize with detailed logs
+folder-organizer /path/to/your/folder --verbose
+```
+
+```bash
+# Preview actions without actually moving files
+folder-organizer /path/to/your/folder --dry-run
+```
+
+```bash
+# Combine both
+folder-organizer /path/to/your/folder --verbose --dry-run
+```
+
+###### Example
 
 ```bash
 folder-organizer <path-to-folder>
