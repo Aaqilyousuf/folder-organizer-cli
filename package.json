@@ -18,7 +18,7 @@
   "bin": {
     "folder-organizer": "./dist/index.js"
   },
-  "type": "module",
+  "type": "commonjs",
   "dependencies": {
     "@types/node": "^24.0.15",
     "chalk": "^5.4.1",
